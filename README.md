@@ -5,7 +5,6 @@
 ## Mata Kuliah : Pemrograman Web 1
 
 ## Lab4_box.html
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9d79001f-ff50-4023-9fd1-8fdad3809c1c" />
 
 <img width="1920" height="1200" alt="Screenshot 2025-10-16 131721" src="https://github.com/user-attachments/assets/ac18bcf3-1885-4dd8-8da1-33ca88b947e0" />
 
