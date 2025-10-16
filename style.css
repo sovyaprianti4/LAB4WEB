@@ -1,0 +1,145 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+#container {
+    width: 980px;
+    margin: 20px auto;
+    background: #fff;
+    box-shadow: 0 0 1em #ccc;
+}
+
+/* Header */
+header {
+    padding: 20px;
+    background: #eee;
+    text-align: center;
+}
+
+header h1 {
+    color: #555;
+}
+
+/* Navigasi */
+nav {
+    background-color: #1f5faa;
+    text-align: center;
+}
+
+nav a {
+    padding: 15px 25px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a.active, nav a:hover {
+    background-color: #2b83ea;
+}
+
+/* Hero */
+#hero {
+    background: #e4e4e5;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+/* Main dan Sidebar */
+#wrapper {
+    overflow: hidden;
+}
+
+#main {
+    float: left;
+    width: 640px;
+    padding: 20px;
+}
+
+#sidebar {
+    float: left;
+    width: 260px;
+    padding: 20px;
+}
+
+/* Widget */
+.widget-box {
+    border: 1px solid #eee;
+    margin-bottom: 20px;
+}
+
+.widget-box .title {
+    background: #428bca;
+    color: white;
+    padding: 10px;
+}
+
+.widget-box li {
+    list-style: none;
+    border-bottom: 1px solid #eee;
+}
+
+.widget-box li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+.widget-box li a:hover {
+    background: #eee;
+}
+
+/* Box dan Gambar */
+.box {
+    float: left;
+    width: 33.3%;
+    padding: 10px;
+    text-align: center;
+}
+
+.image-circle {
+    border-radius: 50%;
+}
+
+/* Footer */
+footer {
+    clear: both;
+    background: #1d1d1d;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Form Kontak */
+form {
+    margin-top: 20px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background: #1f5faa;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+}
+
+button:hover {
+    background: #2b83ea;
+}
