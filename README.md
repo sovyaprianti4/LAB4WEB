@@ -23,7 +23,8 @@
 # Tugas
 ## <img width="609" height="171" alt="Screenshot 2025-10-16 140640" src="https://github.com/user-attachments/assets/ee670ef5-de47-4d72-a0f0-c56bbc347605" />
 
-## 1. <img width="1920" height="1200" alt="Screenshot 2025-10-16 140324" src="https://github.com/user-attachments/assets/a414d48d-dc27-420e-9c50-952854ee1c35" />
+## 1. <img width="1920" height="1200" alt="Screenshot 2025-10-16 140829" src="https://github.com/user-attachments/assets/a46a7820-3e66-4448-b5da-28abc98048d3" />
+
 ## 2. <img width="1920" height="1200" alt="Screenshot 2025-10-16 140340" src="https://github.com/user-attachments/assets/bee7296d-fc61-47b3-b22d-b9fbd92f1ab2" />
 
 
