@@ -20,5 +20,9 @@
 ## Artikel.html
 <img width="1920" height="1200" alt="Screenshot 2025-10-16 134054" src="https://github.com/user-attachments/assets/48811499-2fdd-416e-8fdb-48032a1844e7" />
 
+# Tugas
+## 1. <img width="1920" height="1200" alt="Screenshot 2025-10-16 140324" src="https://github.com/user-attachments/assets/a414d48d-dc27-420e-9c50-952854ee1c35" />
+## 2. <img width="1920" height="1200" alt="Screenshot 2025-10-16 140340" src="https://github.com/user-attachments/assets/bee7296d-fc61-47b3-b22d-b9fbd92f1ab2" />
+
 
 
